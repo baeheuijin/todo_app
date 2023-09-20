@@ -1,0 +1,39 @@
+.site-header {
+  background: black;
+  color: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.py-1 {
+  padding: 1rem;
+}
+
+form, 
+fieldset {
+  border: 0;
+  margin: 0;
+}
+
+label,
+legend {
+  display: none;
+}
+
+input[type="text"] {
+  outline: none;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.ml-1 {
+  margin-left: 1rem;
+}
